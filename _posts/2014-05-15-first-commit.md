@@ -7,7 +7,7 @@ categories: personal
 tags:
   - blogging
   - jekyll
-imagefeature: "website-speed.jpg"
+imagefeature: "http://raspi.tv/wp-content/uploads/2014/07/Raspbery-Pi-B+FRONT_1500.jpg"
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: false
