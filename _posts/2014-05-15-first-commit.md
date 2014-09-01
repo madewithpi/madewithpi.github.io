@@ -7,7 +7,7 @@ categories: personal
 tags:
   - blogging
   - jekyll
-imagefeature: "http://raspi.tv/wp-content/uploads/2014/07/Raspbery-Pi-B+FRONT_1500.jpg"
+imagefeature: pi.jpg
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: false
@@ -15,6 +15,7 @@ mathjax: null
 featured: true
 published: true
 ---
+
 
 >&quot;The beginning is the most important part of the work.&quot;
 ><small><cite title="Plato">Plato</cite></small>
