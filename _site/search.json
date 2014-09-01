@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Jekyll + Prose.io",
 		  "category"   : "",
-		  "url"        : "/webdevelopment/jekyll-prose-io",
+		  "url"        : "http://madewithpi.github.io/webdevelopment/jekyll-prose-io",
 		  "date"       : "2014-05-15 00:00:00 -0400",
 		  "shortdate"  : "May 15, 2014"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "How many things are there?",
 		  "category"   : "",
-		  "url"        : "/how-many-things-are-there",
+		  "url"        : "http://madewithpi.github.io/how-many-things-are-there",
 		  "date"       : "2014-05-15 00:00:00 -0400",
 		  "shortdate"  : "May 15, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "First Commit",
 		  "category"   : "",
-		  "url"        : "/personal/first-commit",
+		  "url"        : "http://madewithpi.github.io/personal/first-commit",
 		  "date"       : "2014-05-15 00:00:00 -0400",
 		  "shortdate"  : "May 15, 2014"
 		} 
