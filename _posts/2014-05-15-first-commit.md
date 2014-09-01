@@ -15,7 +15,7 @@ mathjax: null
 featured: true
 published: true
 ---
-[cover-image](http://raspi.tv/wp-content/uploads/2014/07/Raspbery-Pi-B+FRONT_1500.jpg)
+
 >&quot;The beginning is the most important part of the work.&quot;
 ><small><cite title="Plato">Plato</cite></small>
 
