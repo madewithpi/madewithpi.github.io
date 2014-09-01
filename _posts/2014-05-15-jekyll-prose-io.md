@@ -10,6 +10,7 @@ imagefeature:
 mathjax:
 chart:
 comments: true
+animated_fins: false
 featured: true
 ---
 
